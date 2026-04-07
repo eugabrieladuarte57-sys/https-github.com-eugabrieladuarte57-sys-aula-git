@@ -1,0 +1,23 @@
+<doctype>
+ <html>
+    <body>
+          <form>
+
+            <label for="nome"> Nome:</label>
+            <input type="text" id="nome"/>
+
+            <label for="datanasc"> data de nascimento:</label>
+             <input type="date" id="datanasc"/>
+            <input type="gmail"/>
+            <input type="password"/>
+            <label> hobbies:</label>
+            <input type=" checkbox"> comer
+            <input type="checkbox"> dormir
+            <input type="checkbox"> academia
+            <label> turno:</label>
+            <input type="radio" name="turno"> Manhã
+            <input type="radio" name="turno"> Tarde
+            <input type="resert" value="Limpar"/>
+          </form>
+    </body>
+ </html>
