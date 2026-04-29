@@ -1,0 +1,65 @@
+<doctype html>
+    <html>
+        <body>
+            <header style="background-color: antiquewhite;">
+            </header>    
+                <h1>Trio do Sabor </h1>
+                <P>Nossa lanchonete tem como objetivo oferecer comidas saborosas e de qualidade, como açaí, hambúrguer e pizza, com atendimento rápido e um ambiente agradável para todos os clientes.</P>
+                <nav>
+                    
+                    <a href="p2.html"> Cardapio</a>
+                    <a href="p3.html"> Contato da loja</a>
+                </nav>
+    
+</body>
+</html>
+
+<html>
+    <body>
+<h2>Fale com a nossa Lanchonete</h2>
+
+
+  <!-- Nome -->
+  <label>Nome:</label><br>
+  <input type="text" name="nome" required><br><br>
+
+  <!-- Email -->
+  <label>Email:</label><br>
+  <input type="email" name="email" required><br><br>
+
+  <!-- Mensagem -->
+  <label>Mensagem:</label><br>
+  <textarea name="mensagem" rows="4" placeholder="Faça seu pedido de açaí, pizza ou hambúrguer..." required></textarea><br><br>
+
+  <!-- Botão -->
+  <input type="submit" value="Enviar Pedido">
+
+<br>
+
+<!-- Voltar -->
+<a href="file:///C:/Users/202530018916/cmys,gabi,lele.html">Voltar à página inicial</a>
+
+    </body>
+
+<html>
+  <body>
+<h2>Fale com a nossa Lanchonete</h2>
+  <!-- Nome -->
+  <label>Nome:</label><br>
+  <input type="text" name="nome" required><br><br>
+
+  <!-- Email -->
+  <label>Email:</label><br>
+  <input type="email" name="email" required><br><br>
+
+  <!-- Mensagem -->
+  <label>Mensagem:</label><br>
+  <textarea name="mensagem" rows="4" placeholder="Faça seu pedido de açaí, pizza ou hambúrguer..." required></textarea><br><br>
+
+  <!-- Botão -->
+  <input type="submit" value="Enviar Pedido">
+<br>
+<!-- Voltar -->
+<a href="file:///C:/Users/202530018916/cmys,gabi,lele.html">Voltar à página inicial</a>
+</html>
+  </body>
